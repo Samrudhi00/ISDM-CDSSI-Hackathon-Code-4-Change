@@ -15,16 +15,18 @@ https://www.isdm.org.in/isdm-code-for-change
 
 
 
-Problem Statement : https://drive.google.com/file/d/17tXpKGaFbKowS8ex2fb91GmhY1qwhTQR/view
+#Problem Statement :
+https://drive.google.com/file/d/17tXpKGaFbKowS8ex2fb91GmhY1qwhTQR/view
 https://drive.google.com/file/d/1qGKPnNiICJErxzRZXwJtqzEqJCSSJVRH/view
 https://drive.google.com/file/d/17tXpKGaFbKowS8ex2fb91GmhY1qwhTQR/view
 
 
-Dataset : https://drive.google.com/file/d/1ukaTvnp_Fm2je4gh3AwORW6fxvISRXqi/view
+#Dataset : https://drive.google.com/file/d/1ukaTvnp_Fm2je4gh3AwORW6fxvISRXqi/view
 
 
-Solution:
-Step 1 : Data Understanding 
+##Solution:
+
+#Step 1 : Data Understanding 
 
 Preprocessing Steps:
 1)Data Cleaning: Removed irrelevant columns and handled missing values through imputation or deletion.
@@ -33,7 +35,7 @@ Preprocessing Steps:
 4)Encoding Categorical Variables: Converted categorical variables into numerical format using techniques like one-hot encoding or label encoding.
 
 
-Step 2 : EDA 
+#Step 2 : EDA 
 
 Results
 ![image](https://github.com/Samrudhi00/ISDM-CDSSI-Hackathon-Code-4-Change/assets/89694069/854181e1-17cf-413c-9e07-f96df19d997b)
@@ -49,7 +51,7 @@ Results
 
 ![image](https://github.com/Samrudhi00/ISDM-CDSSI-Hackathon-Code-4-Change/assets/89694069/27427103-3b25-4c25-868d-40d511a507c7)
 
-Step 3 : Model Selection
+#Step 3 : Model Selection
 
 Algorithm Choices:
 Random Forest, Logistic Regression, Naive Bayes, SVM.
@@ -57,7 +59,7 @@ Random Forest, Logistic Regression, Naive Bayes, SVM.
 Evaluation Criteria:
 Selected based on performance metrics (accuracy, precision, recall).
 
-Step 4 : Model Development
+#Step 4 : Model Development
 
 Feature Scaling:
 Normalized numerical features for better model performance.
@@ -65,7 +67,7 @@ Normalized numerical features for better model performance.
 Model Training:
 Trained selected algorithms using training data.
 
-Step 5 : Model Evaluation
+#Step 5 : Model Evaluation
 
 Performance Metrics:
 Evaluated models on testing data using metrics like accuracy, precision, recall, and F1-score.
@@ -73,7 +75,7 @@ Evaluated models on testing data using metrics like accuracy, precision, recall,
 Cross-Validation:
 Applied cross-validation techniques to ensure robustness of models.
 
-Step 6 : Model Selection and Tuning
+#Step 6 : Model Selection and Tuning
 
 Hyperparameter Tuning:
 Optimized model parameters using techniques like grid search.
@@ -81,7 +83,7 @@ Optimized model parameters using techniques like grid search.
 Final Model Selection:
 Chose Random Forest as the best-performing model based on evaluation results
 
-Step 7:Results
+#Step 7:Results
 
 Accuracy:
 
@@ -95,7 +97,7 @@ Visualize financial vulnerability hotspots across India.
 ![image](https://github.com/Samrudhi00/ISDM-CDSSI-Hackathon-Code-4-Change/assets/89694069/b02f543e-1546-42fb-bfe2-cc02c1598fba)
 
 
-CONCLUSION
+##CONCLUSION
 
 Our analysis identified critical factors impacting financial vulnerability in women-headed households, including education levels and household income.
 The Random Forest model demonstrated the highest accuracy in predicting financial vulnerability, enabling targeted interventions.
