@@ -16,12 +16,14 @@ https://www.isdm.org.in/isdm-code-for-change
 
 
 **Problem Statement :**
+
 https://drive.google.com/file/d/17tXpKGaFbKowS8ex2fb91GmhY1qwhTQR/view
 https://drive.google.com/file/d/1qGKPnNiICJErxzRZXwJtqzEqJCSSJVRH/view
 https://drive.google.com/file/d/17tXpKGaFbKowS8ex2fb91GmhY1qwhTQR/view
 
 
 **Dataset :**
+
 https://drive.google.com/file/d/1ukaTvnp_Fm2je4gh3AwORW6fxvISRXqi/view
 
 
@@ -100,11 +102,15 @@ Chose Random Forest as the best-performing model based on evaluation results
 
 **Step 7:Results**
 
-Accuracy:
+**Accuracy:**
+
 
 Random Forest: 85% accuracy
+
 Logistic Regression: 78% accuracy
+
 Naive Bayes: 72% accuracy
+
 SVM: 80% accuracy
 
 
