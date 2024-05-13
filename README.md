@@ -29,16 +29,22 @@ https://drive.google.com/file/d/1ukaTvnp_Fm2je4gh3AwORW6fxvISRXqi/view
 
 **Step 1 : Data Understanding** 
 
-Preprocessing Steps:
+**Preprocessing Steps:**
+
 1)Data Cleaning: Removed irrelevant columns and handled missing values through imputation or deletion.
+
 2)Feature Engineering: Created new features by combining or transforming existing ones to improve model performance.
+
 3)Normalization/Standardization: Scaled numerical features to ensure they have a similar range, preventing dominance by certain features.
+
 4)Encoding Categorical Variables: Converted categorical variables into numerical format using techniques like one-hot encoding or label encoding.
 
 
 **Step 2 : EDA**
 
-Results
+**Results**
+
+
 ![image](https://github.com/Samrudhi00/ISDM-CDSSI-Hackathon-Code-4-Change/assets/89694069/854181e1-17cf-413c-9e07-f96df19d997b)
 
 
@@ -70,6 +76,8 @@ Normalized numerical features for better model performance.
 Model Training:
 Trained selected algorithms using training data.
 
+
+
 **Step 5 : Model Evaluation**
 
 Performance Metrics:
@@ -78,6 +86,8 @@ Evaluated models on testing data using metrics like accuracy, precision, recall,
 Cross-Validation:
 Applied cross-validation techniques to ensure robustness of models.
 
+
+
 **Step 6 : Model Selection and Tuning**
 
 Hyperparameter Tuning:
@@ -85,6 +95,8 @@ Optimized model parameters using techniques like grid search.
 
 Final Model Selection:
 Chose Random Forest as the best-performing model based on evaluation results
+
+
 
 **Step 7:Results**
 
@@ -95,9 +107,14 @@ Logistic Regression: 78% accuracy
 Naive Bayes: 72% accuracy
 SVM: 80% accuracy
 
+
+
 **Visualize financial vulnerability hotspots across India**
 
 ![image](https://github.com/Samrudhi00/ISDM-CDSSI-Hackathon-Code-4-Change/assets/89694069/b02f543e-1546-42fb-bfe2-cc02c1598fba)
+
+
+
 
 
 **CONCLUSION**
