@@ -7,6 +7,10 @@ The project aims to create a predictive model for financial risk in Indian women
 
 https://www.isdm.org.in/isdm-code-for-change
 
+https://www.linkedin.com/posts/indian-school-of-development-management---isdm_code-for-change-rsvp-activity-7199277891661012992-iMfv?utm_source=share&utm_medium=member_desktop
+
+
+
 
 
 
