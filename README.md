@@ -7,6 +7,7 @@ The project aims to create a predictive model for financial risk in Indian women
 
 https://www.isdm.org.in/isdm-code-for-change
 
+
 https://www.linkedin.com/posts/indian-school-of-development-management---isdm_code-for-change-rsvp-activity-7199277891661012992-iMfv?utm_source=share&utm_medium=member_desktop
 
 
@@ -15,6 +16,20 @@ https://www.linkedin.com/posts/indian-school-of-development-management---isdm_co
 
 
 ![Screenshot (924)](https://github.com/Samrudhi00/ISDM-CDSSI-Hackathon-Code-4-Change/assets/89694069/755bc65e-3ed6-496f-a2ac-cffd8f93a124)
+
+
+
+
+
+
+https://www.linkedin.com/posts/samrudhi-shete-807a9320a_datascience-socialimpact-hackathon-activity-7199780450712625153-oOO7?utm_source=share&utm_medium=member_desktop
+
+
+
+
+
+![Untitled](https://github.com/Samrudhi00/ISDM-CDSSI-Hackathon-Code-4-Change/assets/89694069/74ba18e5-f145-48cc-9dbb-1b997d1ea430)
+
 
 
 
